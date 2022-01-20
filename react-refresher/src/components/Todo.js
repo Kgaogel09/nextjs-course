@@ -1,7 +1,7 @@
-function Todo() {
+function Todo({ title }) {
   return (
     <div className="card">
-      <h2>TITLE</h2>
+      <h2>{title}</h2>
       <div className="actions">
         <button className="btn">Delete</button>
       </div>

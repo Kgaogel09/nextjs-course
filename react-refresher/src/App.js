@@ -4,7 +4,7 @@ export function App() {
   return (
     <div>
       <h1>My Todo's</h1>
-      <Todo />
+      <Todo title="Learn react" />
     </div>
   );
 }
