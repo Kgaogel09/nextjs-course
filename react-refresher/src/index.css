@@ -29,12 +29,12 @@ h2 {
   border-color: #9c1458;
 }
 
-.btn--alt {
+.btn-alt {
   background-color: transparent;
   color: #800040;
 }
 
-.btn--alt:hover {
+.btn-alt:hover {
   background-color: #f8dae9;
 }
 
